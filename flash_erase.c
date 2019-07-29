@@ -1,4 +1,4 @@
-/* flash_erase.c -- erase MTD devices
+/* xxflash_erase.c -- erase MTD devices
 
    Copyright (C) 2000 Arcom Control System Ltd
    Copyright (C) 2010 Mike Frysinger <vapier@gentoo.org>
